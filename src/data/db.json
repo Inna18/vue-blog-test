@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut culpa deserunt fugiat laboriosam minima minus nisi porro recusandae veniam? Aut.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Title2",
+      "body": " Aut culpa deserunt fugiat laboriosam minima minus nisi porro recusandae veniam? Aut. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut culpa deserunt fugiat laboriosam minima minus nisi porro recusandae veniam? Aut.",
+      "tags": [
+        "css",
+        "coding",
+        "webdev"
+      ]
+    },
+    {
+      "title": "Title3",
+      "body": "",
+      "tags": [
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Title 4",
+      "body": "",
+      "tags": [
+        "test"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Title 5",
+      "body": "",
+      "tags": [
+        "css",
+        "js",
+        "java"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Title 6",
+      "body": "",
+      "tags": [
+        "css",
+        "vue",
+        "react"
+      ],
+      "id": 6
+    },
+    {
+      "title": "New title",
+      "body": "",
+      "tags": [
+        "news",
+        "dev"
+      ],
+      "id": 7
+    },
+    {
+      "title": "new title 2",
+      "body": "hihi",
+      "tags": [
+        "news"
+      ],
+      "id": 8
+    }
+  ]
+}
