@@ -6,7 +6,7 @@
 
 <script>
 import Navbar from "@/components/Navbar";
-import TagCloud from "@/views/TagCloud";
+import TagCloud from "@/components/TagCloud";
 export default {
   components: {TagCloud, Navbar }
 }

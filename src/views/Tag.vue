@@ -13,7 +13,7 @@
 
 <script>
 import PostList from "@/components/PostList";
-import TagCloud from "@/views/TagCloud";
+import TagCloud from "@/components/TagCloud";
 import getPosts from "@/composables/getPosts";
 import Spinner from "@/components/Spinner";
 import { computed } from "vue";
@@ -37,7 +37,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
   .tag {
     max-width: 1200px;
     margin: 0 auto;

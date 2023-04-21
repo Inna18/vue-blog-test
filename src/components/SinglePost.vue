@@ -26,7 +26,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
   .post {
     margin: 0 40px 30px;
     padding-bottom: 30px;
@@ -51,8 +51,5 @@ export default {
     padding-right: 40px;
     left: -30px;
     transform: rotateZ(-1deg);
-  }
-  .tag {
-    margin-right: 5px;
   }
 </style>

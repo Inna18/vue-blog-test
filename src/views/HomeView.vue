@@ -13,7 +13,7 @@
 
 <script>
 import PostList from "@/components/PostList";
-import TagCloud from "@/views/TagCloud";
+import TagCloud from "@/components/TagCloud";
 import getPosts from "@/composables/getPosts";
 import Spinner from "@/components/Spinner";
 
