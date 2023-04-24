@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import PostDetail from "@/views/PostDetail";
 import CreatePost from "@/views/CreatePost";
 import Tag from "@/views/Tag";
+import RealTimeTest from "@/views/RealTimeTest";
 
 const routes = [
   {
@@ -25,7 +26,12 @@ const routes = [
     path: '/tags/:tag',
     name: 'tag',
     component: Tag
-  }
+  },
+  {
+    path: '/realTime',
+    name: 'realTime',
+    component: RealTimeTest
+  },
 ]
 
 const router = createRouter({
